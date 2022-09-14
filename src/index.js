@@ -4,3 +4,4 @@ document.getElementById('like').addEventListener('click', updateLikeColor)
 function updateLikeColor() {
     document.getElementById('like').style.backgroundColor = "red";
 }
+document.getElementById('submit').addEventListener('click', () => alert('Successfully Submitted'))
