@@ -1,0 +1,1 @@
+document.querySelector("#like").addEventListener('click',  () => alert('I made you laugh!'))
