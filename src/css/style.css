@@ -70,3 +70,10 @@ p {
     border: none;
     border-radius: 40px;
 }
+#submit {
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color: blue;
+    border-radius: 40px;
+}
