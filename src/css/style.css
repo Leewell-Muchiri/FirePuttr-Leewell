@@ -43,3 +43,7 @@ nav a:hover::after {
     display: block;
     background-color: black;
 }
+
+#heading {
+    color: blue;
+    font-size: 60px
