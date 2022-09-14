@@ -8,7 +8,7 @@
     background-image: url(../coolPic.jpg);
     background-position: top left;
     background-size: cover;
-    height: 70vh;
+    height: 85vh;
     padding: 50px;
 }
 
@@ -68,7 +68,7 @@ p {
     color: white;
     background-color: blue;
     border: none;
-    border-radius: px;
+    border-radius: 40px;
 }
 #submit {
     height: 40px;
@@ -78,8 +78,21 @@ p {
     border-radius: 40px;
 }
 #joke {
-    width: 80%;
-    height: 40px;
-    border-radius: 40px;
+    border: 2px solid blue;
+    color: white;
+    background-color: blue;
+    margin-bottom: 2%;
     
+}
+.punchline {
+    border: 2px solid blue;
+    color: blue;
+    background-color: white;
+}
+
+#jokeSection {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    margin: 0 5rem;
 }
