@@ -11,3 +11,11 @@
     height: 70vh;
     padding: 50px;
 }
+
+header {
+    display: flex;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+}
