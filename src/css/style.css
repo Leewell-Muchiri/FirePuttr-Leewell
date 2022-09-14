@@ -46,4 +46,16 @@ nav a:hover::after {
 
 #heading {
     color: blue;
-    font-size: 60px
+    font-size: 60px;
+}
+p {
+    margin-bottom: 60px;
+}
+
+.btn {
+    text-decoration: none;
+    color: blue;
+    background-color: white;
+    border: none;
+    border-radius: 40px;
+    padding: 6px 12px;
