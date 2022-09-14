@@ -1,4 +1,13 @@
+
 * {
     box-sizing: border-box;
     margin: 0;
+    font-family: 'Jost', sans-serif;
+}
+#hero {
+    background-image: url(../coolPic.jpg);
+    background-position: top left;
+    background-size: cover;
+    height: 70vh;
+    padding: 50px;
 }
